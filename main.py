@@ -111,5 +111,3 @@
 # print(f"This list contains only even numbers: {even_numbers}")
 # print(f"This list contains only odd numbers: {odd_numbers}")
 # print(f"This list contains only positive numbers: {positive_numbers}")
-
-# all done
